@@ -77,7 +77,7 @@ body{
     transform: scale(1.02);
 }
 
-.clock {
+*/.clock {
     animation-name: shake;
     animation-duration: 4s;
     @keyframes shake {
@@ -89,3 +89,4 @@ body{
     }
 }
 }
+*/
